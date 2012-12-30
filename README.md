@@ -24,8 +24,8 @@ Or with a file:
     
 It only supports relative includes off the base file now (no include path parsing *yet*)...
 
-For The Love Of God, Why?
-=========================
+Why would we do such a thing?
+=============================
 
 There are a number of reasons why I did this...
 
